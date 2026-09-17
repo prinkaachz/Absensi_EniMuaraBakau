@@ -1,0 +1,15 @@
+.DS_Store
+/vendor/
+/output/
+/tmp/
+.env
+.env.*
+!.env.example
+/application/config/database.php
+/application/cache/*
+!/application/cache/index.html
+/application/logs/*
+!/application/logs/index.html
+/assets/uploads/*
+!/assets/uploads/.htaccess
+!/assets/uploads/index.html
